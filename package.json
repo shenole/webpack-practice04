@@ -1,0 +1,22 @@
+{
+  "name": "webpack-practice04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack -d --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shenole/webpack-practice04.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shenole/webpack-practice04/issues"
+  },
+  "homepage": "https://github.com/shenole/webpack-practice04#readme",
+  "devDependencies": {
+    "webpack": "^2.2.0"
+  }
+}
